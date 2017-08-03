@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notepad Lite</string>
+    <string name="action_about">About Apps</string>
+    <string name="write_note">Write note here…</string>
+    <string name="title">Title</string>
+    <string name="subtitle">subtitle</string>
+    <string name="notepadlite_title">NotepadLite Title</string>
+    <string name="notepad_date">date</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+
+    <string name="banner_home_footer">ca-app-pub-9541955040150575/5372230241</string>
+</resources>
