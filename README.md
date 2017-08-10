@@ -1,5 +1,5 @@
 # NotepadLite
 Simple Notepad Mobile
 
-#Desctiprion
+# Description
 A simple android notepad using Realm Database
